@@ -633,31 +633,31 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
       <img src="./img/splash.jpg" width="100%" />
     </div>
     <div class="articleText">
-      <p>No one likes to talk about it, but I’m going to put this out there because I’ve had an ongoing problem for years that I have finally solved—and I know I’m not the only one who’s been suffering from this particular problem.</p>
+      <p>No one likes to talk about it, but Emily doesn't mind sharing her experience because she's had an ongoing problem for years that she have finally solved—and knows she's not the only one who’s been suffering from this particular problem.</p>
 
       <p>First, a little background.</p>
 
-      <p>I’m an active woman, on my feet constantly as I’m moving about the house, cleaning and chasing after my three kids, cooking meals and helping with homework…the typical housewife, you might say. My problem wasn’t managing my schedule or dealing with the messes of enthusiastic children playing hard at home. I had an embarrassing and painful issue that had been plaguing me for years. My feet would get sore after a full day’s running around to keep the house in order, but I could deal with that...it was my dry, cracked heels that were the real source of my pain.</p>
+      <p>Emily is an active woman, on her feet constantly as she's moving about the house, cleaning and chasing after her three kids, cooking meals and helping with homework…the typical housewife, you might say. Emily's problem wasn’t managing her schedule or dealing with the messes of enthusiastic children playing hard at home. She had an embarrassing and painful issue that had been plagued her for years. Emily's feet would get sore after a full day of running around to keep the house in order, but she could deal with that...it was her dry, cracked heels that were the real source of her pain.</p>
 
       <div class="articleImgsmall">
       <img src="./img/before.jpg" width="100%" />
       </div>
 
-      <p>I’m not exaggerating, here. Aside from the fact that it’s not a good look, my heels were actually so dry and cracked that I snagged them on the carpet, and that ended up causing a situation that needed band aids. It was so embarrassing, so painful and irritating, I just didn’t know what I was going to do about it and I was frustrated beyond belief. I talked to my husband about it; he said he had the same thing from wearing boots all day at work, but didn’t think there was anything we could do about it. I decided I wasn’t going to ‘just live with it,’ so I made an appointment with a dermatologist to figure out what was causing my heels to be so dry and cracked.</p>
+      <p>Emily is not exaggerating, here. Aside from the fact that it’s not a good look, her heels were actually so dry and cracked that she snagged them on the carpet, and that ended up causing a situation that needed band aids. It was so embarrassing, so painful and irritating, she just didn’t know what she was going to do about it and was frustrated beyond belief. Emily talked to her husband about it; he said he had the same thing from wearing boots all day at work, but didn’t think there was anything we could do about it. Emily decided she wasn’t going to ‘just live with it,’ so she made an appointment with a dermatologist to figure out what was causing my heels to be so dry and cracked.</p>
 
 
 
-      <p>That appointment changed everything for me.</p>
+      <p>That appointment changed everything for her.</p>
 
-      <p>I explained my symptoms, and he examined my heels. He typed a few things into his laptop and then he gave me the news.</p>
+      <p>Emily explained her symptoms, and he examined her heels. He typed a few things into his laptop and then he gave her the news.</p>
 
       <p>“The first thing you should know, Emily, is that this isn’t going to kill you.”</p>
 
-      <p>I couldn’t help but laugh at his dry humor.</p>
+      <p>She couldn’t help but laugh at his dry humor.</p>
 
       <p>	“The second thing is…there’s a long list of salves, ointments, and other useless goop I’m supposed to recommend to you for this issue. But,” he closed his laptop and set it aside. “I’m not going to do that.”</p>
 
-      <p>I was confused. “So what do I do, then?”</p>
+      <p>Emily was confused. “So what do I do, then?”</p>
 
       <div class="blockQuote">
          <i>	He smiled. “Some of those things can help, but I’ve actually invented something that accelerates the healing process and prevents reoccurrence of symptoms. I call them the <a class="articleLink" href="<?=$exitLink;?>">[Product Name].</a> . Essentially, you use these silicon heel cups to cover the affected area, add some salve if you like, but the cups will give your heels time to heal and soften the skin back up. As you wear them, they actually function as a preventative to further damage, as well.”
@@ -672,9 +672,9 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
 
       <p>“Of course they do. But I’m not trying to price gouge people who are suffering from a legitimate health issue, so I’ve kept them available online from my personal warehouse. This helps me cut out the middle man. You know, paying stocking fees and all that. Don’t buy these because I’m telling you they’re the best thing for you. Check out the website, do some research on the internet, and make your own decision. I do recommend them, because I’m certain they’re your best bet for immediate relief, as well as prevention of future damage to your dry heels, but I’m not going to force you into it. Like I said, look them up and make your own decision.”</p>
 
-      <p>I was taken aback by his frank honesty. I thanked him for the recommendation, and I hopped online to look into the <a class="articleLink" href="<?=$exitLink;?>">[Product Name].</a> . The doctor seemed genuine enough, but I just wanted to kind of vet the product on its own before I made a decision about it.</p>
+      <p>Emily was taken aback by his frank honesty. She thanked him for the recommendation, and she hopped online to look into the <a class="articleLink" href="<?=$exitLink;?>">[Product Name].</a> . The doctor seemed genuine enough, but she just wanted to kind of vet the product on its own before she made a decision about it.</p>
 
-      <p>What I found surprised me.</p>
+      <p>What she found surprised her.</p>
 
       </div>
     <div class="articleSubheader">
@@ -778,10 +778,10 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
       </div>
     </div>
     <div class="articleText">
-      <p>After seeing the overwhelming number of positive reviews this [Product Name] was getting compared to the many others I looked at, and with the recommendation from my dermatologist, I knew I had to try it for myself. I got on the <a class="articleLink" href="<?=$exitLink;?>">official website</a> and ordered a pair the moment it came back in stock.</p>
+      <p>After seeing the overwhelming number of positive reviews this [Product Name] was getting compared to the many others she looked at, and with the recommendation from her dermatologist, Emily knew she had to try it for herself. She got on the <a class="articleLink" href="<?=$exitLink;?>">official website</a> and ordered a pair the moment it came back in stock.</p>
     </div>
     <div class="articleSubheader">
-      …Here’s What I Found.
+      …Here’s What Emily Found.
     </div>
 
     <div class="articleImg" style="width:60%;">
@@ -789,33 +789,33 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
       </div>
 
     <div class="articleText">
-      <p>The <a class="articleLink" href="<?=$exitLink;?>">[Product Name]</a> arrived in just 2 days. I unboxed it, and just feeling the cups in my fingers, I could tell they were the real deal. The first thing I noticed was how comfortable they were, and that they actually fit my heel perfectly. No trimming or adjustments required.</p>
+      <p>The <a class="articleLink" href="<?=$exitLink;?>">[Product Name]</a> arrived in just 2 days. Emily unboxed it, and just feeling the cups in her fingers, she could tell they were the real deal. The first thing Emily noticed was how comfortable they were, and that they actually fit her heel perfectly. No trimming or adjustments required.</p>
 
       <div class="articleImg" style="width:60%;">
         <img src="./img/usingProduct.jpg" width="100%" />
       </div>
 
-	  <p>Immediately, I understood what my dermatologist had been talking about. I was able to apply the new moisturizer I bought, and once I’d slipped the heel cups on…zero mess. No wasted moisturizer. I let it sink in for a few hours, and by the end of the day I was able to take a look. I didn’t expect the cracks to heal up immediately, but I did notice the skin around the cracks was already softening and smoothing out.</p>
+	  <p>Immediately, she understood what her dermatologist had been talking about. Emily was able to apply the new moisturizer she bought, and once she'd slipped the heel cups on…zero mess. No wasted moisturizer. She let it sink in for a few hours, and by the end of the day she was able to take a look. Emily didn’t expect the cracks to heal up immediately, but she did notice the skin around the cracks was already softening and smoothing out.</p>
 
-    <p>The real wow moment was about three days later. Just look at the difference, here. This is my heels before the <a class="articleLink" href="<?=$exitLink;?>">[Product Name]</a>, when I was just trying moisturizers and then my heels after 3 days with the [Product Name]:</p>
+    <p>The real wow moment was about three days later. Just look at the difference, here. This is her heels before the <a class="articleLink" href="<?=$exitLink;?>">[Product Name]</a>, when she was just trying moisturizers and then her heels after 3 days with the [Product Name]:</p>
 
       <div class="articleImg" style="width:60%;">
         <img src="./img/splashBeforeAfter.jpg" width="100%" />
       </div>
 
-      <p>Results like that in just 3 days? My reaction?</p>
+      <p>Results like that in just 3 days? Emily's reaction?</p>
 
       <p>What sorcery is this?</p>
 
-      <p>Over the course of the next few days, my heels had completely stopped hurting. As I hustled and bustled through my house barefoot, I didn’t have to avoid the carpet for fear of my heels getting damaged or hurt again. I was amazed. Not only did the [Product Name] work, it worked FAST. I told my husband about the [Product Name] and when he saw the results I’d gotten, we ordered him a pair as well.</p>
+      <p>Over the course of the next few days, her heels had completely stopped hurting. As she hustled and bustled through her house barefoot, she didn’t have to avoid the carpet for fear of her heels getting damaged or hurt again. Emily was amazed. Not only did the [Product Name] work, it worked FAST. She told her husband about the [Product Name] and when he saw the results she'd gotten, they ordered him a pair as well.</p>
 
-      <p>His heels were actually worse than mine, and the before and after tells the story better than my words can:</p>
+      <p>His heels were actually worse than Emily's, and the before and after tells the story better than her words can:</p>
 
       <div class="articleImg" style="width:60%;">
         <img src="./img/maleBeforeAfter.jpg" width="100%" />
       </div>
 
-      <p>After using <a class="articleLink" href="<?=$exitLink;?>">[Product Name]</a> every day for six months now, I’m happy to report they have become absolutely essential to preventing any of those irritating symptoms from returning. These inexpensive heel cups actually do hold up; after constant use, they’re showing no signs of wearing down at all! They were very affordable, and to clean them I just wash with soap and water at the end of the day. It couldn’t be simpler, really. I can’t recommend them enough!</p>
+      <p>After using <a class="articleLink" href="<?=$exitLink;?>">[Product Name]</a> every day for six months now, she's happy to report they have become absolutely essential to preventing any of those irritating symptoms from returning. These inexpensive heel cups actually do hold up; after constant use, they’re showing no signs of wearing down at all! They were very affordable, and to clean them she just washes with soap and water at the end of the day. It couldn’t be simpler, really. Emily can’t recommend them enough!</p>
 
     </div>
     <div class="articleSubheader">
@@ -828,9 +828,9 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
       Is It Worth It?
     </div>
     <div class="articleText">
-      <p>	It is absolutely worth it. Ever since I purchased [Product Name] from the <a class="articleLink" href="<?=$exitLink;?>">official website</a>, my heels have completely healed, my skin is soft and smooth, and I haven’t developed a single crack. No more dead skin peeling off for me!</p>
+      <p>	It is absolutely worth it. Ever since Emily purchased [Product Name] from the <a class="articleLink" href="<?=$exitLink;?>">official website</a>, her heels have completely healed, her skin is soft and smooth, and she hasn't developed a single crack. No more dead skin peeling off for her!</p>
 
-      <p>These have completely changed my life. I bought a few more pairs from the website for my parents, and less than a week after using them, they called me up to let me know how big of a difference the [Product Name] made for them, too. I just wish I would have found out about [Product Name] sooner and saved myself months of pain and anxiety!</p>
+      <p>These have completely changed her life. Emily bought a few more pairs from the website for her parents, and less than a week after using them, they called her up to let me know how big of a difference the [Product Name] made for them, too. She just wishes she would have found out about [Product Name] sooner and saved herself months of pain and anxiety!</p>
 
       </div>
     <div class="updateBox">
