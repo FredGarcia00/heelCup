@@ -604,7 +604,7 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
       Heel Cups
       </div>
       <div id="author">
-        Joseph Lewis | <?=date('l\, F d\, Y',strtotime('-9 days'));?>
+        Emily Banks | <?=date('l\, F d\, Y',strtotime('-9 days'));?>
       </div>
     </div>
   </div>
@@ -627,72 +627,85 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
           </a>
         </div>
       </div>
-      <a class="articleLink" href="<?=$exitLink;?>">Hello</a> 
 
       <div id="mainContent">
     <div class="articleImg">
-      <img src="../img/Splash-Image-CarTrash.jpg" width="100%" />
+      <img src="./img/splash.jpg" width="100%" />
     </div>
     <div class="articleText">
-      <p>My life just got a lot easier, and it was a simple fix I just have to share with you. First of all, I’m a ride-share driver—Uber and Lyft for the past 4 years—and it’s actually pretty fun for the most part. I get to have little micro conversations with people of all walks of life. It’s interesting because you start to get a real feel for the city you live in when you’re exposed to a lot of different people.</p>
+      <p>No one likes to talk about it, but I’m going to put this out there because I’ve had an ongoing problem for years that I have finally solved—and I know I’m not the only one who’s been suffering from this particular problem.</p>
 
-      <p>For the most part I’ve been able to avoid all of the horror stories you’ve heard about the ride-sharing experience.</p>
+      <p>First, a little background.</p>
 
-      <p>I’ve had my share of messy riders, the partygoers that get carsick, the couple that’s arguing and kind of forgets there’s another human driving the car…that’s awkward.</p>
+      <p>I’m an active woman, on my feet constantly as I’m moving about the house, cleaning and chasing after my three kids, cooking meals and helping with homework…the typical housewife, you might say. My problem wasn’t managing my schedule or dealing with the messes of enthusiastic children playing hard at home. I had an embarrassing and painful issue that had been plaguing me for years. My feet would get sore after a full day’s running around to keep the house in order, but I could deal with that...it was my dry, cracked heels that were the real source of my pain.</p>
 
-      <p>The one thing that really, really irritates me is a messy car. It’s practically a death sentence for an Uber/Lyft driver. It takes a lot to get that five-star rating, and the only thing that can take you down faster than a bad attitude or terrible driving is having the previous rider’s trash (or your own) left behind. It amazes me that the one consistent thing I have to deal with is riders that leave their empty coffee cups, water bottles, napkins or even chewed gum just hanging around the back seat.</p>
-
-	<div class="articleImgsmall">
-      <img src="../img/CarTrash2-1.jpg" width="100%" />
+      <div class="articleImgsmall">
+      <img src="./img/before.jpg" width="100%" />
       </div>
 
-      <p>When you’re in the rush of pick up and drop off, it’s not always a good time to have to pull over at a gas station or a dumpster to take care of that problem. When I got a three star review because a couple was annoyed that my previous occupants left a greasy fast food bag in the back seat, I knew I had to figure out a way to make sure that didn’t happen again.</p>
+      <p>I’m not exaggerating, here. Aside from the fact that it’s not a good look, my heels were actually so dry and cracked that I snagged them on the carpet, and that ended up causing a situation that needed band aids. It was so embarrassing, so painful and irritating, I just didn’t know what I was going to do about it and I was frustrated beyond belief. I talked to my husband about it; he said he had the same thing from wearing boots all day at work, but didn’t think there was anything we could do about it. I decided I wasn’t going to ‘just live with it,’ so I made an appointment with a dermatologist to figure out what was causing my heels to be so dry and cracked.</p>
 
-      <p>The DMV is one of the worst places on earth. I hate waiting in those long lines, and I frequently end up talking to people who are just as annoyed to be there as I am. It just so happened one of the guys in line ahead of me was an Uber driver, too; so of course, we started talking about work, and that led to me complaining about that three-star review I got.</p>
+
+
+      <p>That appointment changed everything for me.</p>
+
+      <p>I explained my symptoms, and he examined my heels. He typed a few things into his laptop and then he gave me the news.</p>
+
+      <p>“The first thing you should know, Emily, is that this isn’t going to kill you.”</p>
+
+      <p>I couldn’t help but laugh at his dry humor.</p>
+
+      <p>	“The second thing is…there’s a long list of salves, ointments, and other useless goop I’m supposed to recommend to you for this issue. But,” he closed his laptop and set it aside. “I’m not going to do that.”</p>
+
+      <p>I was confused. “So what do I do, then?”</p>
 
       <div class="blockQuote">
-         <i>““Oh, man,” he said, “we all deal with that problem. I couldn’t believe it until it happened to me, but I got a one star review because one of my riders left a banana peel and chewing tobacco flakes on the seat, and I didn’t see it until it was too late. You have got to get yourself a <a class="articleLink" href="<?=$exitLink;?>">TidyCar Car Trash Can</a>. Once you have it, you’ll be kicking yourself that you didn’t get it earlier.”
-		Wow, I thought. That does sound like an easy fix.
-		“How much is it?”
-		He smiled. “It’s not expensive at all. You get a discount if you order it straight from the company website, and I’m telling you, it’s nice. People instinctually use it because it’s so convenient, and you just empty it out at the end of your shift.”
-		</i>
+         <i>	He smiled. “Some of those things can help, but I’ve actually invented something that accelerates the healing process and prevents reoccurrence of symptoms. I call them the <a class="articleLink" href="<?=$exitLink;?>">[Product Name].</a> . Essentially, you use these silicon heel cups to cover the affected area, add some salve if you like, but the cups will give your heels time to heal and soften the skin back up. As you wear them, they actually function as a preventative to further damage, as well.”
+		    </i>
       </div>
 
-      <p>That made the wait at the DMV a lot less annoying. I thanked him for the information and I began to research the TidyCar Car Trash Can right away. If it was everything this guy claimed it was, then it really was a no-brainer.</p>
+      <div class="articleImgsmall" style="width:60%;">
+      <img src="./img/holdingProduct.jpg" width="100%" />
+      </div>
+
+      <p>“These sound great. Do they really work, though?”</p>
+
+      <p>“Of course they do. But I’m not trying to price gouge people who are suffering from a legitimate health issue, so I’ve kept them available online from my personal warehouse. This helps me cut out the middle man. You know, paying stocking fees and all that. Don’t buy these because I’m telling you they’re the best thing for you. Check out the website, do some research on the internet, and make your own decision. I do recommend them, because I’m certain they’re your best bet for immediate relief, as well as prevention of future damage to your dry heels, but I’m not going to force you into it. Like I said, look them up and make your own decision.”</p>
+
+      <p>I was taken aback by his frank honesty. I thanked him for the recommendation, and I hopped online to look into the <a class="articleLink" href="<?=$exitLink;?>">[Product Name].</a> . The doctor seemed genuine enough, but I just wanted to kind of vet the product on its own before I made a decision about it.</p>
+
+      <p>What I found surprised me.</p>
 
       </div>
     <div class="articleSubheader">
       What Is It And How Does It Work?
     </div>
-    <div class="articleImgsmall">
-      <img src="../img/CarTrash1.jpg" width="100%" />
+    <div class="articleImgsmall" style="width:60%;">
+      <img src="./img/product.jpg" width="100%" />
     </div>
     <div class="articleText">
-      <p>The <a class="articleLink" href="<?=$exitLink;?>">TidyCar Car Trash Can</a> is a versatile container for all trash items that fits neatly into any vehicle. Structurally designed to prevent collapse or tipping over, plus a built-in waterproof interior so you don’t have to worry about drink spillage, this is the best trash can for your car.</p>
+      <p>[Product Name] are not your typical pair of foot care products. Made with food-grade silicon for peak comfort and effectiveness, [Product Name]s slip on easily, fit snugly but comfortably, and are compatible with any moisturizing cream. Simply apply your go-to cream of choice, slip on the heel cup and you’ve taken your first step on the fast-track to soft, smooth heels! The problem with creams by themselves is they don’t have time to sink in with a simple application; they need something to insulate the area for maximum absorption, and until [Product Name], people were using socks or even plastic bags that simply weren’t effective. After 2 or 3 days with [Product Name], even the most severe cracked and dry heels are shown to have a significant improvement, and our durable design is made to be a long-lasting solution that also prevents further and/or worsening symptoms.</p>
 
-      <p>TidyCar Car Trash Can has an incredible 2 gallon capacity, and comes with an adjustable buckle so you can fasten it around your center console. The opening is large enough for most drink containers, and if you need to dispose of a fast food bag or something larger, simply lift the easy access lid’s Velcro lip to open the top of the bag.</p>
+      <p>Featuring a hard back that better fits the shape of your heel, [Product Name] is cutting design technology simplified to offer the best solution to painful skin cracking associated with dry heels, and guarantees a quick restoration of soft, smooth, crack-resistant skin. Because the creams are contained between the skin and the comfortable heel cup, the skin has plenty of time to absorb every drop of cream with no waste or messy seepage. Experience the [Product Name] difference for yourself; you’ll be glad you did!</p>
 
-      <p>There’s no need to let garbage accumulate in your vehicle; TidyCar Car Trash Can provides a way to collect excess papers, drink cups, food wrappers and anything else you don’t need in one simple, waterproof space that is easy to empty out and clean once you’re done driving.</p>
     </div>
-    <div class="articleImgsmall">
-      <img src="../img/CarTrash2.jpg" width="100%" />
-    </div>
+  
     <div class="articleSubheader">
       But…Is It Really Worth All This Hype?
     </div>
     <div class="articleText">
-      <p>So far, the <a class="articleLink" href="<?=$exitLink;?>">TidyCar Car Trash Can</a> has sold over 10 million units directly to consumers, even without the help of being sold in stores. The TidyCar Car Trash Can has been SELLING OUT every time new stock becomes available, it’s become THAT popular.</p>
+      <p>So far, the [Product Name] has sold over 10 million units directly to consumers, even without the help of being sold in stores. The [Product Name] has been SELLING OUT every time new stock becomes available, it’s become THAT popular.</p>
 
       <p>And, it’s all from word of mouth. People just like you are loving it so much that they’re posting about it on instagram and telling everyone they know about it!</p>
     </div>
-    <div class="articleImgsmall">
-      <img src="../img/IGCarTrash1.jpg" width="100%" style="border: 1px solid #ddd;" />
+    <div class="articleImgsmall" style="width:60%;">
+      <img src="./img/igPost.jpg" width="100%" style="border: 1px solid #ddd;" />
     </div>
-    <div class="articleImgsmall">
-      <img src="../img/IGCarTrash2.jpg" width="100%" style="border: 1px solid #ddd;" />
+    <div class="articleImgsmall" style="width:60%;">
+      <img src="./img/igPost2.jpg" width="100%" style="border: 1px solid #ddd;" />
     </div>
     <div class="articleText">
-      <p>The TidyCar Car Trash Can has started to develop a cult following, and with over 8,000 5-star reviews, it makes sense. Here’s what customers are saying about it:</p>
+      <p>The [Product Name] has started to develop a cult following, and with over 10,000 5-star reviews, it makes sense. Here’s what customers are saying about it:</p>
     </div>
     <div class="reviewBox">
       <div class="namePic">
@@ -766,33 +779,59 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
       </div>
     </div>
     <div class="articleText">
-      <p>After seeing the incredible reviews this product was getting and the recommendation from my brother, I knew I had to try it for myself. I logged on to the company’s <a class="articleLink" href="<?=$exitLink;?>">official website</a> and ordered one the moment it came back in stock.</p>
+      <p>After seeing the overwhelming number of positive reviews this [Product Name] was getting compared to the many others I looked at, and with the recommendation from my dermatologist, I knew I had to try it for myself. I got on the official website and ordered a pair the moment it came back in stock.</p>
     </div>
     <div class="articleSubheader">
       …Here’s What I Found.
     </div>
-    <div class="articleText">
-      <p>The TidyCar Car Trash Can arrived in just 2 days. The installation was just as simple as I hoped it would be: I took it out of the box, unfolded it and used the adjustable strap to affix it over my center console, and it was ready to rock!</p>
-	  <p>It felt so official, having this high quality trash can available in my vehicle. It may seem like a simple thing, and that’s because it is: I get so much use out of it, let me tell you. It’s one of the first things riders see when they get in my vehicle, and almost every single rider uses it instinctively; I don’t even have to point it out to them. It’s really nice, and it takes a lot of the burden of clean up off of my shoulders as the driver.</p>
-      <div class="articleImg">
-        <img src="../img/CarTrash3.jpg" width="100%" />
+
+    <div class="articleImg" style="width:60%;">
+        <img src="./img/unboxing.jpg" width="100%" />
       </div>
 
-      <p>The absolute best part of using the TidyCar Car Trash Can is how easy the clean up is. It’s large enough that I can do a six or eight hour shift without having to empty it until the end of the day. I just remove it from the car, empty the trash into a dumpster, and wipe out the interior with some disinfectant wipes. At the end of the week, I bring it inside and scrub the interior with some dish soap and leave it to air dry, and it’s ready to go for me on Monday morning. The entire cleaning process takes about five minutes—compared to the constant cleaning of my backseat I was doing before.</p>
+    <div class="articleText">
+      <p>The [Product Name] arrived in just 2 days. I unboxed it, and just feeling the cups in my fingers, I could tell they were the real deal. The first thing I noticed was how comfortable they were, and that they actually fit my heel perfectly. No trimming or adjustments required.</p>
 
-      <p>Of course, I loved the ease and convenience of TidyCar Car Trash Can so much I bought one for my wife’s car. She used to do this cute thing where she would get a grocery bag and use that as a trash can, but there isn’t a really good place to hang the handles, and there’s been times when she put a drink cup in there, and it ended in disaster. Now, she’s got a care-free solution and never has to worry about spills or trash accumulating in her car ever again!</p>
+      <div class="articleImg" style="width:60%;">
+        <img src="./img/usingProduct.jpg" width="100%" />
+      </div>
+
+	  <p>Immediately, I understood what my dermatologist had been talking about. I was able to apply the new moisturizer I bought, and once I’d slipped the heel cups on…zero mess. No wasted moisturizer. I let it sink in for a few hours, and by the end of the day I was able to take a look. I didn’t expect the cracks to heal up immediately, but I did notice the skin around the cracks was already softening and smoothing out.</p>
+
+    <p>The real wow moment was about three days later. Just look at the difference, here. This is my heels before the [Product Name], when I was just trying moisturizers and then my heels after 3 days with the [Product Name]:</p>
+
+      <div class="articleImg" style="width:60%;">
+        <img src="./img/splashBeforeAfter.jpg" width="100%" />
+      </div>
+
+      <p>Results like that in just 3 days? My reaction?</p>
+
+      <p>What sorcery is this?</p>
+
+      <p>Over the course of the next few days, my heels had completely stopped hurting. As I hustled and bustled through my house barefoot, I didn’t have to avoid the carpet for fear of my heels getting damaged or hurt again. I was amazed. Not only did the [Product Name] work, it worked FAST. I told my husband about the [Product Name] and when he saw the results I’d gotten, we ordered him a pair as well.</p>
+
+      <p>His heels were actually worse than mine, and the before and after tells the story better than my words can:</p>
+
+      <div class="articleImg" style="width:60%;">
+        <img src="./img/maleBeforeAfter.jpg" width="100%" />
+      </div>
+
+      <p>After using [Product Name] every day for six months now, I’m happy to report they have become absolutely essential to preventing any of those irritating symptoms from returning. These inexpensive heel cups actually do hold up; after constant use, they’re showing no signs of wearing down at all! They were very affordable, and to clean them I just wash with soap and water at the end of the day. It couldn’t be simpler, really. I can’t recommend them enough!</p>
+
     </div>
     <div class="articleSubheader">
       How Much Does It Cost?
     </div>
     <div class="articleText">
-      <p>It’s currently on sale at their <a class="articleLink" href="<?=$exitLink;?>">official website</a> for just the price of $15.97!</p>
+      <p>It’s currently on sale at their official website for just $[price]!</p>
     </div>
     <div class="articleSubheader">
       Is It Worth It?
     </div>
     <div class="articleText">
-      <p>	Of course! My wife is stuck carting the kids to and from school and all over the city for their sports. If you have kids, you know they tend to be messy—especially our kids, when they’re constantly moving between activities—and the TidyCar Car Trash Can is an easy way to cut down on that mess significantly. I can’t recommend TidyCar Car Trash Can enough. I just wish I knew about it sooner; I might have been able to save myself that three-star review!</p>
+      <p>	It is absolutely worth it. Ever since I purchased [Product Name] from the official website, my heels have completely healed, my skin is soft and smooth, and I haven’t developed a single crack. No more dead skin peeling off for me!</p>
+
+      <p>These have completely changed my life. I bought a few more pairs from the website for my parents, and less than a week after using them, they called me up to let me know how big of a difference the [Product Name] made for them, too. I just wish I would have found out about [Product Name] sooner and saved myself months of pain and anxiety!</p>
 
       </div>
     <div class="updateBox">
@@ -800,7 +839,7 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
         UPDATE
       </div>
       <div class="updateBot">
-        <b>UPDATE <?=date('l\, F d\, Y',strtotime('-0 days'));?></b> - Ever since <a class="articleLink" href="<?=$exitLink;?>">TidyCar</a> was featured on TV, an incredible amount of buzz has been generated and has since sold over 10 million units. Due to its popularity and positive reviews, the company is so confident in their product that they are now offering a <b>one-time discount of 50% off. To see if they are still available, click on the button below.</b>
+        <b>UPDATE <?=date('l\, F d\, Y',strtotime('-0 days'));?></b> - Ever since <a class="articleLink" href="<?=$exitLink;?>">[Product Name] </a> was featured on TV, an incredible amount of buzz has been generated and has since sold over 10 million units. Due to its popularity and positive reviews, the company is so confident in their product that they are now offering a <b>one-time discount of 50% off. To see if they are still available, click on the button below.</b>
       </div>
     </div>
 
