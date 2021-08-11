@@ -639,11 +639,11 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
 
       <p>Emily is an active woman, on her feet constantly as she's moving about the house, cleaning and chasing after her three kids, cooking meals and helping with homework…the typical housewife, you might say. Emily's problem wasn’t managing her schedule or dealing with the messes of enthusiastic children playing hard at home. She had an embarrassing and painful issue that had been plagued her for years. Emily's feet would get sore after a full day of running around to keep the house in order, but she could deal with that...it was her dry, cracked heels that were the real source of her pain.</p>
 
-      <div class="articleImgsmall">
+      <div class="articleImgsmall" style="width:50%;">
       <img src="./img/before.jpg" width="100%" />
       </div>
 
-      <p>Emily is not exaggerating, here. Aside from the fact that it’s not a good look, her heels were actually so dry and cracked that she snagged them on the carpet, and that ended up causing a situation that needed band aids. It was so embarrassing, so painful and irritating, she just didn’t know what she was going to do about it and was frustrated beyond belief. Emily talked to her husband about it; he said he had the same thing from wearing boots all day at work, but didn’t think there was anything we could do about it. Emily decided she wasn’t going to ‘just live with it,’ so she made an appointment with a dermatologist to figure out what was causing my heels to be so dry and cracked.</p>
+      <p>Emily is not exaggerating, here. Aside from the fact that it’s not a good look, her heels were actually so dry and cracked that she snagged them on the carpet, and that ended up causing a situation that needed band aids. It was so embarrassing, so painful and irritating, she just didn’t know what she was going to do about it and was frustrated beyond belief. Emily talked to her husband about it; he said he had the same thing from wearing boots all day at work, but didn’t think there was anything we could do about it. Emily decided she wasn’t going to ‘just live with it,’ so she made an appointment with a dermatologist to figure out what was causing her heels to be so dry and cracked.</p>
 
 
 
@@ -800,7 +800,7 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
     <p>The real wow moment was about three days later. Just look at the difference, here. This is her heels before the <a class="articleLink" href="<?=$exitLink;?>">[Product Name]</a>, when she was just trying moisturizers and then her heels after 3 days with the [Product Name]:</p>
 
       <div class="articleImg" style="width:60%;">
-        <img src="./img/splashBeforeAfter.jpg" width="100%" />
+        <img src="./img/beforeAfter.jpg" width="100%" />
       </div>
 
       <p>Results like that in just 3 days? Emily's reaction?</p>

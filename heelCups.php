@@ -639,7 +639,7 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
 
       <p>I’m an active woman, on my feet constantly as I’m moving about the house, cleaning and chasing after my three kids, cooking meals and helping with homework…the typical housewife, you might say. My problem wasn’t managing my schedule or dealing with the messes of enthusiastic children playing hard at home. I had an embarrassing and painful issue that had been plaguing me for years. My feet would get sore after a full day’s running around to keep the house in order, but I could deal with that...it was my dry, cracked heels that were the real source of my pain.</p>
 
-      <div class="articleImgsmall">
+      <div class="articleImgsmall" style="width:50%;">
       <img src="./img/before.jpg" width="100%" />
       </div>
 
@@ -800,7 +800,7 @@ src="https://www.facebook.com/tr?id=552365194970012&ev=PageView&noscript=1"
     <p>The real wow moment was about three days later. Just look at the difference, here. This is my heels before the <a class="articleLink" href="<?=$exitLink;?>">[Product Name]</a>, when I was just trying moisturizers and then my heels after 3 days with the [Product Name]:</p>
 
       <div class="articleImg" style="width:60%;">
-        <img src="./img/splashBeforeAfter.jpg" width="100%" />
+        <img src="./img/beforeAfter.jpg" width="100%" />
       </div>
 
       <p>Results like that in just 3 days? My reaction?</p>
